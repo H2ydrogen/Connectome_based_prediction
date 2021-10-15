@@ -7,14 +7,14 @@ The work is submitted to ISBI 2022 "Model and predict age and sex in healthy sub
 
 #### Get Started
 
-######1.  Prerequisite
+###### 1.  Prerequisite
     Python3.7+ environment
     All the packages used in the code
     cuda (*optional)
-######3.  Install and run Visdom 
+###### 2.  Install and run Visdom 
     Install visdom follow the guide in https://github.com/fossasia/visdom
     Run the visdom in terminal by: python -m visdom.server
-######5.  Change the settings
+###### 3.  Change the settings
     If you want to change the experimental settings, see DTI/cli.py.
 
 #### Thanks
