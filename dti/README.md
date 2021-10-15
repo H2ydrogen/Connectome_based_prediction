@@ -1,37 +1,25 @@
-# DTI
+# Connectome based age/sex prediction
 
-#### 介绍
-2021 internship project in Harvard Medical School
+#### Introduction
+This is a internship project in Harvard Medical School 2022. 
+It use brain white matter features to predict subjects' age/sex.
+The work is submitted to ISBI 2022 "Model and predict age and sex in healthy subjects using brain white matter features: A deep learning approach"
 
-#### 软件架构
-软件架构说明
+#### Get Started
 
+1.  Prerequisite
+    Python3.7+ environment
+    All the packages used in the code
+    cuda (*optional)
+3.  Install and run Visdom 
+    Install visdom follow the guide in https://github.com/fossasia/visdom
+    Run the visdom in terminal by: python -m visdom.server
+5.  Change the settings
+    If you want to change the experimental settings, see DTI/cli.py.
 
-#### 安装教程
+#### Thanks
+Thanks a lot to my advisor Prof. Lauren O'Donnell and Fan Zhang.
+Thanks a lot to my Co-workers and Yuqian Chen, Tengfei Xue,  Shuyue Wang.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### Contact
+Author email: hehao2000.chn@gmail.com; 1175328080@qq.com
