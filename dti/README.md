@@ -19,7 +19,7 @@ The work is submitted to ISBI 2022 "Model and predict age and sex in healthy sub
 
 #### Thanks
 Thanks a lot to my advisor Prof. Lauren O'Donnell and Fan Zhang.
-Thanks a lot to my Co-workers and Yuqian Chen, Tengfei Xue,  Shuyue Wang.
+Thanks a lot to my Co-workers and Yuqian Chen, Tengfei Xue,  Shuyue Wang, Leo Zekelman, Jered Sullivan.
 
 #### Contact
 Author email: hehao2000.chn@gmail.com; 1175328080@qq.com
