@@ -1,8 +1,8 @@
-# Connectome based age/sex prediction
+# Connectome based age/sex prediction using CNN
 
 #### Introduction
 This is a internship project in Harvard Medical School 2022. 
-It use brain white matter features to predict subjects' age/sex.
+It use brain white matter features to predict subjects' age/sex by a CNN.
 The work is submitted to ISBI 2022 "Model and predict age and sex in healthy subjects using brain white matter features: A deep learning approach"
 
 #### Get Started
@@ -15,6 +15,8 @@ The work is submitted to ISBI 2022 "Model and predict age and sex in healthy sub
     Install visdom follow the guide in https://github.com/fossasia/visdom
     Run the visdom in terminal by: python -m visdom.server
 ###### 3.  Change the settings
+    Start training by run main.py.
+###### 4.  Change the settings
     If you want to change the experimental settings, see DTI/cli.py.
 
 #### Thanks
